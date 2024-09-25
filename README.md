@@ -13,4 +13,4 @@ Idea: The impact of weather conditions on flight delays / predict future delays 
 - Chose one specific flight (example: Amsterdam from/to New York).  
 - Get data from delays of that flight
 Constraints: 1 airline company & look only at weather conditions at arrival / destination (not in between)
-Idea: different companies 
+Idea: different companies / drukte op vliegvelden
