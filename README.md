@@ -6,3 +6,5 @@ Ideeen:
 3) A Comparative Study of Pre- and Post-COVID Travel Behavior
 4) De invloed van de oorlog in Oekraïne op handel / armoede / transport / routes in Oost-Europese landen
 5) De invloed van de Brexit op transport (vliegtuigen?)  tussen EU landen en VK
+6) Voorspellen vertraging van vlucht op basis van de weersomstandigheden op aankomst en vertrek locatie
+7) Invloed van weer op vertraging van vluchten
