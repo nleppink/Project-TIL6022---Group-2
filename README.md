@@ -8,3 +8,9 @@ Ideeen:
 5) De invloed van de Brexit op transport (vliegtuigen?)  tussen EU landen en VK
 6) Voorspellen vertraging van vlucht op basis van de weersomstandigheden op aankomst en vertrek locatie
 7) Invloed van weer op vertraging van vluchten
+
+Idea: The impact of weather conditions on flight delays / predict future delays for upcoming week. 
+- Chose one specific flight (example: Amsterdam from/to New York).  
+- Get data from delays of that flight
+Constraints: 1 airline company & look only at weather conditions at arrival / destination (not in between)
+Idea: different companies 
