@@ -18,3 +18,5 @@ Idea: different companies / drukte op vliegvelden
 Data die we nodig hebben:
 - weersomstandigheden in stad van vertrek en aankomst
 - vluchtdata: vertragingen voor een specifieke vlucht
+
+- voorbeeld data: vluchten 2013 https://www.kaggle.com/datasets/mahoora00135/flights?resource=download
