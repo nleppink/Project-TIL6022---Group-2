@@ -20,3 +20,5 @@ Data die we nodig hebben:
 - vluchtdata: vertragingen voor een specifieke vlucht
 
 - voorbeeld data: vluchten 2013 https://www.kaggle.com/datasets/mahoora00135/flights?resource=download
+- https://www.transtats.bts.gov/ONTIME/OriginDestination.aspx [ALLEEN AMERIKA]
+- 
