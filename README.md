@@ -41,3 +41,17 @@ data voor weer:
 https://meteostat.net/nl/#google_vignette
 https://en.climate-data.org/
 
+
+dit vond ik op een website: https://atmdata.github.io/sources/
+voor vluchten moeten een account aanmaken:https://www.eurocontrol.int/dashboard/rnd-data-archive voor binnen Europa
+
+The following websites provide a large history of METAR data.
+METARs report basic weather information around airports:
+
+http://www.ogimet.com/index.phtml.en
+https://mesonet.agron.iastate.edu/request/download.phtml
+https://aviationweather.gov/dataserver
+https://navlost.eu/
+The following website provides METAR, TAF and SIGMET history:
+
+http://www.aviationwxchartsarchive.com/product/sigmet
