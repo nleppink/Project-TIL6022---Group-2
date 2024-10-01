@@ -49,10 +49,15 @@ Flight (or schedule) data
 The following websites provides access to flight data, usually contains the origin, destination, number of passengers or aircraft information
 
 🇺🇸 Bureau of Transportation Statistics (T-100 Segment, All Carriers). This table combines domestic and international T-100 segment data reported by U.S. and foreign air carriers, and contains non-stop segment data by aircraft type and service class for transported passengers, freight and mail, available capacity, scheduled departures, departures performed, aircraft hours, and load factor.
+
 🇪🇺 Aviation Data for Research contains all detailed flight information regarding flight departing and/or arriving from EUROCONTROL member states. The data is only publish with two-year delay and only include four months each year, which are March, June, September, and December. Access to this data need to be requested on the website.
+
 🇧🇷 Dados Estatísticos, Agência Nacional de Aviação Civil (ANAC), Brazil provides all flight information departing from and/or arriving at Brazil since 2000
+
 🇮🇳 Flight Schedule Date, India contains the data regarding from AirSewa data, including data about the flight schedule, status, and airport services.
+
 🇦🇺 Aviation Statistics, Australia contains domestic and international aviation statistics including airline activity, domestic on time performance, domestic airfares index, airfreight, airport traffic, general aviation activity, aviation fuel sales and air distances.
+
 🇭🇰 Flight Information, Hong Kong contains flight Information of Hong Kong International Airport, including data about the flight schedule, status, passenger/cargo flight. This web service returns historical data (previous calendar day) in JSON format.
 
 The following websites provide a large history of METAR data.
